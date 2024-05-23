@@ -3,7 +3,7 @@ import React from "react";
 
 export const Bento = () => {
   return (
-    <div className="flex justify-between items-center mt-32 mb-32">
+    <div className="flex justify-between items-center mt-32  mx-auto">
       <div className="sm:basis-[55%] rounded-md overflow-hidden">
         <Image
           className="object-cover w-full h-[14rem] sm:h-[22rem]"
