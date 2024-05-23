@@ -6,7 +6,7 @@ export default function HomePage() {
       <section>
         <div className="text-center 
         ">
-          <h1 className="text-4xl md font-semibold xl:text-7xl">
+          <h1 className="text-5xl font-semibold xl:text-7xl">
             Meet Oppo <br />
             Ignite <span className="hidden sm:inline" >A Fresh</span>  Wave Of <br className="hidden sm:block" />
             Innovative <span className="hidden sm:inline"> Tech</span>
